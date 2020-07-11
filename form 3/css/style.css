@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.form-area{
+    background-image: url(../images/bg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+header h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+}
+
+.custom{
+    position: relative;
+}
+
+.second-card{
+    position: absolute;
+    top: 29%;
+    left: 10%;
+    box-shadow: -1px -1px 9px #c6bdbd;
+}
+
+
+@media only screen and(max-width:600px){
+    
+}

@@ -1,0 +1,29 @@
+
+.custom-bg{
+    background-image: url(../images/bg2.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: left;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+.custom-bg h1{
+    font-weight: 900;
+}
+.custom-bg  .box p{
+    font-weight: 900;
+    color:black;
+    font-size: 20px;
+}
+
+
+.custom-form{
+    background-color: #000;
+    color: ;
+}
+
+
+
+
